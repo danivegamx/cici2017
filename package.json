@@ -1,7 +1,7 @@
 {
-  "name": "itweek-react",
+  "name": "cici2017",
   "version": "1.0.0",
-  "description": "EPAM ITWeek 2017 ReactJS example",
+  "description": "CICI 2017 ReactJS app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -13,12 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/danivegamx/itweek-react.git"
   },
-  "author": "Daniel Vega <daniel_vega@epam.com>",
+  "author": "Daniel Vega <ingdanivega@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danivegamx/itweek-react/issues"
+    "url": "https://github.com/danivegamx/cici2017/issues"
   },
-  "homepage": "https://github.com/danivegamx/itweek-react#readme",
+  "homepage": "https://github.com/danivegamx/cici2017#readme",
   "dependencies": {
     "consolidate": "^0.14.5",
     "express": "^4.14.0",
